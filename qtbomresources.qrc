@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/ic_action_new.png</file>
+        <file>images/ic_action_discard.png</file>
+        <file>images/ic_action_edit.png</file>
+        <file>images/ic_action_group.png</file>
+    </qresource>
+</RCC>
